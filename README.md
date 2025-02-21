@@ -51,11 +51,6 @@ Ví dụ:
 1. Đầu tiên, bạn chạy file `train.py` để huấn luyện mô hình với dữ liệu của bạn.
 2. Sau khi huấn luyện hoàn tất, bạn có thể sử dụng `predict.py` để nhập câu văn bản mới và nhận dự đoán về châm biếm.
 
-## Liên hệ
-
-Nếu bạn gặp phải vấn đề hoặc có bất kỳ câu hỏi nào về dự án, vui lòng liên hệ với tôi qua email:
-
-[khanh091103@gmail.com]
 
 ---
 
